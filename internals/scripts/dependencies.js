@@ -32,7 +32,7 @@ if (!exists(dllManifestPath)) {
   writeFile(
     dllManifestPath,
     JSON.stringify(defaults({
-      name: 'react-boilerplate-dlls',
+      name: 'main-dlls',
       private: true,
       author: pkg.author,
       repository: pkg.repository,
