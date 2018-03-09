@@ -198,7 +198,7 @@ const HomePage = () => (
               bordered
               rounded
               size='large'
-              src='/assets/images/wireframe/white-image.png'
+              src='https://d2jv9003bew7ag.cloudfront.net/uploads/Oswaldo-Guayasamin-Nino-Dormido-1978-image-via-pintura.aut_.org_.jpg'
             />
           </Grid.Column>
         </Grid.Row>
@@ -219,7 +219,7 @@ const HomePage = () => (
           <Grid.Column style={{ paddingBottom: '5em', paddingTop: '5em' }}>
             <Header as='h3' style={{ fontSize: '2em' }}>"I shouldn't have gone with their competitor."</Header>
             <p style={{ fontSize: '1.33em' }}>
-              <Image avatar src='/assets/images/avatar/large/nan.jpg' />
+              <Image avatar src='https://teens.artsconnection.org/wp-content/uploads/2016/08/Oswaldo-2.jpg' />
               <b>Nan</b> Chief Fun Officer Acme Toys
             </p>
           </Grid.Column>
